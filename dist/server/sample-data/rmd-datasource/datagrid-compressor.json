@@ -1,0 +1,120 @@
+{
+	"tableData": [{
+		"tag": "Temperature",
+		"tagUri": "/tag/temperatureo",
+		"tag_isKpi": true,
+		"tag_isPM": true,
+		"alertStatus": false,
+		"alertStatusType": null,
+		"currentValue": 2.7387545914849944,
+		"unit": "Celcius",
+		"lastTagReading": 1489103997210,
+		"thresholdMin": 2.5,
+		"thresholdMax": 3.0,
+		"deltaThreshold": 8.708180283833517,
+		"deltaThresholdColor": "GREEN",
+		"deltaThresholdLevel": "HIGH"
+	}, {
+		"tag": "Precipitation Forecast",
+		"tagUri": "/tag/Precipitation Forecast",
+		"tag_isKpi": true,
+		"tag_isPM": true,
+		"alertStatus": false,
+		"alertStatusType": null,
+		"currentValue": 16.767715215208693,
+		"unit": "Percent",
+		"lastTagReading": 1489103997210,
+		"thresholdMin": 0.0,
+		"thresholdMax": 23.0,
+		"deltaThreshold": 27.09689036865786,
+		"deltaThresholdColor": "GREEN",
+		"deltaThresholdLevel": "HIGH"
+	}, {
+		"tag": "Wind Speed",
+		"tagUri": "/tag/crank-frame-Wind Speed",
+		"tag_isKpi": false,
+		"tag_isPM": true,
+		"alertStatus": false,
+		"alertStatusType": null,
+		"currentValue": 0.0435274216737174,
+		"unit": "MPH",
+		"lastTagReading": 1489103997210,
+		"thresholdMin": 0.0,
+		"thresholdMax": 0.21,
+		"deltaThreshold": 20.72734365415114,
+		"deltaThresholdColor": "GREEN",
+		"deltaThresholdLevel": "LOW"
+	}, {
+		"tag": "Humidity",
+		"tagUri": "/tag/Humidity",
+		"tag_isKpi": false,
+		"tag_isPM": true,
+		"alertStatus": false,
+		"alertStatusType": null,
+		"currentValue": 23.095171627593004,
+		"unit": "Percent",
+		"lastTagReading": 1489103997210,
+		"thresholdMin": 22.0,
+		"thresholdMax": 26.0,
+		"deltaThreshold": 11.172416816949985,
+		"deltaThresholdColor": "GREEN",
+		"deltaThresholdLevel": "HIGH"
+	}],
+	"columns": [{
+		"field": "tag",
+		"type": "string",
+		"inputType": "text",
+		"inputSize": 25.0,
+		"label": "Tag Name",
+		"uom": null
+	}, {
+		"field": "alertStatus",
+		"type": "string",
+		"inputType": "text",
+		"inputSize": 20.0,
+		"label": "Alert Status",
+		"uom": null
+	}, {
+		"field": "currentValue",
+		"type": "number",
+		"inputType": "text",
+		"inputSize": 20.0,
+		"label": "Current value",
+		"uom": null
+	}, {
+		"field": "unit",
+		"type": "number",
+		"inputType": "text",
+		"inputSize": 10.0,
+		"label": "Units",
+		"uom": null
+	}, {
+		"field": "lastTagReading",
+		"type": "string",
+		"inputType": "text",
+		"inputSize": 10.0,
+		"label": "Last Tag Reading",
+		"uom": null
+	}, {
+		"field": "thresholdMin",
+		"type": "number",
+		"inputType": "text",
+		"inputSize": 10.0,
+		"label": "Threshold Minimum",
+		"uom": null
+	}, {
+		"field": "thresholdMax",
+		"type": "number",
+		"inputType": "text",
+		"inputSize": 10.0,
+		"label": "Threshold Maximum",
+		"uom": null
+	}, {
+		"field": "deltaThreshold",
+		"type": "string",
+		"inputType": "text",
+		"inputSize": 25.0,
+		"label": "Delta Threshold ",
+		"uom": null
+	}]
+}

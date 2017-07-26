@@ -1,0 +1,24 @@
+{
+	"kpis": [ {
+		"value": "7.0",
+		"label": "Amount to Water:",
+		"uom": "mL"
+	}, {
+		"value": "60.0",
+		"label": "Humidity",
+		"uom": "%"
+	}, {
+		"value": "7.0",
+		"label": "Wind Speed",
+		"uom": "MPH"
+	}, {
+		"value": "75.0",
+		"label": "Temperature",
+		"uom": "Degrees"
+	}],
+	"overall": {
+		"title": "Precipitation: Cincinnati OH",
+		"subtitle": "plant-richmond-refinery",
+		"percentage": 30.0
+	}
+}

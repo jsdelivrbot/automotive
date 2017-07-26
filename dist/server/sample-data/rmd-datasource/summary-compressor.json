@@ -1,0 +1,24 @@
+{
+	"kpis": [ {
+		"value": "35.0",
+		"label": "Gas Milage",
+		"uom": "MPG"
+	}, {
+		"value": "25",
+		"label": "Most Recent Trip",
+		"uom": "Miles"
+	}, {
+		"value": "45.0",
+		"label": "Avg Speed Last Trip",
+		"uom": "MPH"
+	}, {
+		"value": "3",
+		"label": "Vehical Age",
+		"uom": "Years"
+	} ],
+	"overall": {
+		"title": "Total Depreciation",
+		"subtitle": "plant-richmond-refinery",
+		"percentage": 40.0
+	}
+}
