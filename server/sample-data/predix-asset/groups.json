@@ -2,17 +2,17 @@
   {
     "filter": "parent=/group/root",
     "parent": "/group/root",
-    "description": "Predix Energy",
+    "description": "Predix Additive",
     "uri": "/group/enterprise-predix",
     "level": "enterprise",
-    "name": "Predix Energy"
+    "name": "Predix Additive"
   },
   {
     "filter": "parent=/group/enterprise-predix",
     "parent": "/group/enterprise-predix",
-    "description": "Spigot",
+    "description": "Automotix",
     "uri": "/group/plant-richmond-refinery",
     "level": "plant",
-    "name": "Richmond Refinery 1"
+    "name": "GE Additive"
   }
 ]

@@ -4,7 +4,7 @@
     "uri": "/asset/compressor-2017",
     "classificationUri": "/classification/GE_COMPRESSOR_CYLINDER",
     "assetId": "compressor-2017",
-    "description": "Weather Data",
+    "description": "Predix Automotix Depreciation Data",
     "filter": "group=/group/plant-richmond-refinery",
 	"isMock": true,
     "group": "/group/plant-richmond-refinery",
@@ -26,23 +26,23 @@
           "controllerUri": "/asset/Bently.Nevada.3500.Rack1"
         }
       },
-      "Precipitation Forecast": {
+      "Avg Ambient Temperature": {
         "complexType": "AssetTag",
-        "label": "Precipitation Forecast",
-        "tagUri": "/tag/Precipitation Forecast",
+        "label": "Avg Ambient Temperature",
+        "tagUri": "/tag/Avg Ambient Temperature",
         "hiAlarmThreshold": 23,
         "loAlarmThreshold": 0,
         "isKpi": true,
         "timeseriesDatasource": {
           "complexType": "TimeseriesDatasource",
-          "tag": "Precipitation Forecast"
+          "tag": "Avg Ambient Temperature"
         },
         "edgeDatasource": {
           "complexType": "EdgeDatasource",
-          "nodeName": "Precipitation Forecast",
+          "nodeName": "Avg Ambient Temperature",
           "controllerUri": "/asset/Bently.Nevada.3500.Rack1"
         },
-        "alertStatusUri": "/asset/compressor-2017.alert-status.Precipitation Forecast"
+        "alertStatusUri": "/asset/compressor-2017.alert-status.Avg Ambient Temperature"
       },
       "crank-frame-suctionpressure": {
         "complexType": "AssetTag",

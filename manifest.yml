@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: spigot
+  - name: Automotix
     memory: 128M
     timeout: 180
     buildpack: nodejs_buildpack

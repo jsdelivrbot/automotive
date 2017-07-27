@@ -37,8 +37,8 @@ SET IZON_BAT=https://raw.githubusercontent.com/PredixDev/izon/!BRANCH!/izon.bat
 SET TUTORIAL=https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1475^&tag^=1719^&journey^=Predix%%20UI%%20Seed^&resources^=1475,1569,1523
 SET REPO_NAME=predix-webapp-starter
 SET SHELL_SCRIPT_NAME=quickstart-predix-webapp-starter.sh
-SET APP_DIR="Spigot"
-SET APP_NAME=Spigot
+SET APP_DIR="Automotix"
+SET APP_NAME=Automotix
 SET TOOLS=Cloud Foundry CLI, Git, Node.js, Predix CLI
 SET TOOLS_SWITCHES=/cf /git /nodejs /predixcli
 

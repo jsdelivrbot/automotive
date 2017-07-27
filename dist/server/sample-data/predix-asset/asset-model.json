@@ -16,9 +16,9 @@
     "defaultTag": []
   },
   {
-    "uri": "/tag/crank-frame-Precipitation Forecast",
-    "name": "crank-frame-Precipitation Forecast",
-    "description": "Crank Frame Precipitation Forecast",
+    "uri": "/tag/crank-frame-Average Ambient Temperature",
+    "name": "crank-frame-Avg Ambient Temperature",
+    "description": "Crank Frame Avg Ambient Temperature",
     "dataType": "number",
     "tagType": "Continuous",
     "uom": "psi",
