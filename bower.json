@@ -37,11 +37,37 @@
     "px-spacing-design": "^0.4.4",
     "px-buttons-design": "^1.1.7",
     "marked-element": "^1.3.1",
-    "px-dark-theme": "^1.0.10"
+    "px-dark-theme": "^1.0.10",
+    "px-vis-xy-chart": "^3.0.1"
   },
   "resolutions": {
     "px-datetime-common": "^0.7.0",
-    "app-localize-behavior": "^0.10.2",
-    "iron-ajax": "^2.0.0"
+    "app-localize-behavior": "2.0.0",
+    "iron-ajax": "^2.0.0",
+    "px-typography-design": "1.2.6",
+    "px-colors-design": "0.3.9",
+    "px-defaults-design": "2.0.0",
+    "px-functions-design": "2.0.0",
+    "px-mixins-design": "0.3.4",
+    "iron-iconset-svg": "1.1.2",
+    "iron-flex-layout": "1.3.7",
+    "px-theme": "2.0.4",
+    "iron-icon": "1.0.13",
+    "promise-polyfill": " 1.0.1",
+    "px-tooltip": "0.10.20",
+    "iron-dropdown": "1.5.6",
+    "px-popover":"1.7.10",
+    "px-overlay": "0.4.4",
+    "iron-resizable-behavior": "1.0.6",
+    "neon-animation": "1.2.5",
+    "px-number-formatter": "3.0.5",
+    "px-d3-imports": "1.0.4",
+    "px-vis": "3.0.2",
+    "px-moment-imports":"1.0.2"
+
+
+
+
+
   }
 }

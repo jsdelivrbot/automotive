@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e8653f3-7976-49a8-8815-4360124ae989" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-functions-design/auto_ghp.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-functions-design/deploy.enc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/css/px-moment-imports-styles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/id_rsa.enc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/fa_codes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-axis-brush.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-d3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/elements/seed-app/automotix.png" afterPath="$PROJECT_DIR$/public/elements/seed-app/automotix.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/.gitignore" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/.travis.yml" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/README.md" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/bower.json" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/demo/index.html" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/iron-ajax.html" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/iron-ajax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/iron-request.html" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/iron-request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/test/index.html" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/test/iron-ajax.html" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/test/iron-ajax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-ajax/test/iron-request.html" afterPath="$PROJECT_DIR$/public/bower_components/iron-ajax/test/iron-request.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/iron-resizable-behavior/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/iron-resizable-behavior/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-actionable-text-icons-design/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-actionable-text-icons-design/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-colors-design/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-colors-design/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-d3-imports/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-d3-imports/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-d3-imports/bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-d3-imports/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-d3-imports/px-d3-imports.html" afterPath="$PROJECT_DIR$/public/bower_components/px-d3-imports/px-d3-imports.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-functions-design/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-functions-design/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-functions-design/bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-functions-design/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-functions-design/css/px-functions-design-demo-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-functions-design/css/px-functions-design-demo-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-functions-design/package.json" afterPath="$PROJECT_DIR$/public/bower_components/px-functions-design/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-iconography-design/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-iconography-design/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-moment-imports/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-moment-imports/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/package.json" afterPath="$PROJECT_DIR$/public/bower_components/px-moment-imports/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-moment-imports/px-moment-imports.html" afterPath="$PROJECT_DIR$/public/bower_components/px-moment-imports/px-moment-imports.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-number-formatter/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-number-formatter/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/css/px-number-formatter-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-number-formatter/css/px-number-formatter-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/demo/index.html" afterPath="$PROJECT_DIR$/public/bower_components/px-number-formatter/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/package.json" afterPath="$PROJECT_DIR$/public/bower_components/px-number-formatter/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-number-formatter/px-number-formatter.html" afterPath="$PROJECT_DIR$/public/bower_components/px-number-formatter/px-number-formatter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-typography-design/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-typography-design/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/.bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/HISTORY.md" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/README.md" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/all_css_vars.txt" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/all_css_vars.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/bower.json" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-dynamic-menu-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-dynamic-menu-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-overview-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-overview-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-pie-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-pie-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-register-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-register-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-summary-demo-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-summary-demo-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-svg-canvas-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-svg-canvas-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-toolbar-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-toolbar-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-tooltip-styles.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/css/px-vis-tooltip-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/index.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-area-svg-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-area-svg-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-area-svg-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-area-svg-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-axis-brush-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-axis-brush-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-axis-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-axis-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-axis-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-axis-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-bar-svg-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-bar-svg-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-bar-svg-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-bar-svg-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-brush-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-brush-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-brush-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-brush-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-canvas-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-canvas-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-chart-navigator-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-chart-navigator-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-clip-path-complex-area-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-clip-path-complex-area-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-clip-path-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-clip-path-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-cursor-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-cursor-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-cursor-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-cursor-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-data-converter-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-data-converter-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-dynamic-menu-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-dynamic-menu-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-dynamic-menu-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-dynamic-menu-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-event-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-event-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-event-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-event-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-gridlines-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-gridlines-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-interaction-space-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-interaction-space-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-interactive-axis-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-interactive-axis-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-canvas-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-canvas-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-canvas-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-canvas-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-svg-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-svg-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-svg-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-line-svg-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-multi-axis-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-multi-axis-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-multi-axis-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-multi-axis-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-multi-scale-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-multi-scale-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-overview.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-overview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-pie-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-pie-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-pie-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-pie-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radar-grid-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radar-grid-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radar-grid-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radar-grid-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radial-gridlines-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radial-gridlines-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radial-gridlines-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radial-gridlines-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radial-scale-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-radial-scale-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-register-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-register-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-register-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-register-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-scale-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-scale-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-scatter-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-scatter-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-scatter-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-scatter-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-svg-canvas-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-svg-canvas-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-svg-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-svg-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-threshold-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-threshold-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-threshold-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-threshold-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-toolbar-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-toolbar-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-tooltip-demo-component.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-tooltip-demo-component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-tooltip-demo.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/demo/px-vis-tooltip-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/index-dark-theme.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/index-dark-theme.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/index.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/package.json" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-area-svg.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-area-svg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-axis.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-axis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-bar-svg.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-bar-svg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-axis-drag.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-axis-drag.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-chart.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-chart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-common.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-common.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-d3.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-d3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-datetime.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-datetime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-register.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-scale.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-behavior-scale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-brush.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-brush.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-canvas.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-canvas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-chart-navigator.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-chart-navigator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-clip-path-complex-area.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-clip-path-complex-area.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-clip-path.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-clip-path.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-cursor.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-cursor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-data-converter.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-data-converter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-dynamic-menu.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-dynamic-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-event.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-event.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-gridlines.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-gridlines.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-interaction-space.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-interaction-space.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-interactive-axis.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-interactive-axis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-line-canvas.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-line-canvas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-line-svg.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-line-svg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-multi-axis.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-multi-axis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-multi-radial-scale.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-multi-radial-scale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-multi-scale.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-multi-scale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-pie.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-pie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-polyfills.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-polyfills.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-radar-grid.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-radar-grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-radial-gridlines.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-radial-gridlines.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-radial-scale.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-radial-scale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register-datetime.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register-datetime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register-item-pie.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register-item-pie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register-item.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register-item.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-scale.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-scale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-scatter-canvas.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-scatter-canvas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-scatter.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-scatter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-svg-canvas.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-svg-canvas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-svg.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-svg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-threshold.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-threshold.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-toolbar.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-toolbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-tooltip.html" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/px-vis-tooltip.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/scripts/ghp.sh" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/scripts/ghp.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bower_components/px-vis/wct.conf.json" afterPath="$PROJECT_DIR$/public/bower_components/px-vis/wct.conf.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/elements/seed-app/seed-app.html" afterPath="$PROJECT_DIR$/public/elements/seed-app/seed-app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html" afterPath="$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/elements/views/rmd-view.html" afterPath="$PROJECT_DIR$/public/elements/views/rmd-view.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="rmd-view.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/elements/views/rmd-view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="44" column="67" lean-forward="true" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeseries-chart.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weatherData.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/server/sample-data/time-series/weatherData.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seed-app.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/elements/seed-app/seed-app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="automotix.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/elements/seed-app/automotix.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/public/elements/views/rmd-view.html" />
+        <option value="$PROJECT_DIR$/public/elements/seed-app/seed-app.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seed-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automotive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8653f3-7976-49a8-8815-4360124ae989" name="Default" comment="" />
+      <created>1501116753326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501116753326</updated>
+      <workItem from="1501116754581" duration="516000" />
+      <workItem from="1501171870990" duration="376000" />
+      <workItem from="1501197510462" duration="3749000" />
+      <workItem from="1501202006639" duration="75000" />
+      <workItem from="1501202258661" duration="1170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5886000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/elements/views/rmd-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/server/sample-data/time-series/weatherData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/seed-app/seed-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="144" column="33" lean-forward="false" selection-start-line="144" selection-start-column="33" selection-end-line="144" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/seed-app/automotix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/views/rmd-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/server/sample-data/time-series/weatherData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/seed-app/seed-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="144" column="33" lean-forward="false" selection-start-line="144" selection-start-column="33" selection-end-line="144" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/seed-app/automotix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/views/rmd-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/views/rmd-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/seed-app/automotix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/server/sample-data/time-series/weatherData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/timeseries-chart/timeseries-chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#px-card#0;n#template#0;n#dom-module#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/views/rmd-view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="44" column="67" lean-forward="true" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/elements/seed-app/seed-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

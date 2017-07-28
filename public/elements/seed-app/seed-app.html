@@ -28,11 +28,15 @@
     <style include="seed-app-styles"></style>
 
     <header role="banner">
-      <div class="viewport flex flex--justify flex--middle">
-        <h3>         
-         <img border="0" src="automotix.png" alt="Spigot Logo" width="120" height="50" />
-           [[appHeader]]
-        </h3>
+      <div class="viewport flex flex--justify flex--middle u-pl-">
+        <div class="layout">
+          <div class="u-1/2 u-pt- ">
+            <img  src="automotix.png" alt="Spigot Logo" width="80" height="40"  class="u"/>
+          </div>
+          <div class="u-1/2">
+            <h3 class="">[[appHeader]] </h3>
+          </div>
+        </div>
         <div>
           <px-login style="margin-left: auto;"></px-login>
         </div>
@@ -42,11 +46,11 @@
     <div class="viewport">
 
       <div class="content-wrapper">
-        <px-app-nav
-          class="navbar"
-          nav-items="[[navItems]]"
-          path-prefix="[[pathPrefix]]">
-        </px-app-nav>
+        <!--<px-app-nav-->
+          <!--class="navbar"-->
+          <!--nav-items="[[navItems]]"-->
+          <!--path-prefix="[[pathPrefix]]">-->
+        <!--</px-app-nav>-->
 
         <main class="u-pt-- u-pr-- u-pl--" role="main">
 
