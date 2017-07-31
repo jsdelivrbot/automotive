@@ -8,7 +8,7 @@
 		"alertStatusType": null,
 		"currentValue": 20.47387545914849944,
 		"unit": "Dollars",
-		"lastTagReading": 1489103997210,
+		"lastTagReading": 12345678,
 		"thresholdMin": 2.5,
 		"thresholdMax": 3.0,
 		"deltaThreshold": 95.708180283833517,

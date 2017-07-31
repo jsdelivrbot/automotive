@@ -57,7 +57,7 @@
             "alertStatus": self._getAlertHtml(sensor),
             "currentValue": (typeof sensor.currentValue === "number") ? parseFloat(sensor.currentValue).toFixed(3): '',
             "unit": sensor.unit,
-            "lastTagReading": moment(sensor.lastTagReading).format('YYYY-MM-DD HH:mm:ss ZZ'),
+            "lastTagReading": new Date().toJSON().slice(0,10).replace(/-/g,'/'),
             "thresholdMin": sensor.thresholdMin,
             "thresholdMax": sensor.thresholdMax,
             "deltaThreshold": self._getDeltaHtml(sensor)
