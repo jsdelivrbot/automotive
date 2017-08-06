@@ -16,7 +16,7 @@
     "defaultTag": []
   },
   {
-    "uri": "/tag/crank-frame-Average Ambient Temperature",
+    "uri": "/tag/crank-frame-Avg Ambient Temperature",
     "name": "crank-frame-Avg Ambient Temperature",
     "description": "Crank Frame Avg Ambient Temperature",
     "dataType": "number",
